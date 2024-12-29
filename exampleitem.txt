@@ -1,0 +1,11 @@
+["melonstestitem"] = {
+    label = "Test Item",
+    weight = 100,
+    stack = true,
+    close = true,
+    description = "Test Item",
+    server = {
+        export = "melons_consumables.UseItem",
+        status = {effect = "heavydrunk", duration = 30, hunger = 20, thirst = 20},
+    }
+},
