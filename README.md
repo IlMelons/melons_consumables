@@ -1,4 +1,4 @@
-# [BETA] [OX_INV] Melons Consumables - Consumables Management Script
+# [BETA] [OX_INV] Melons Consumables
 The project aims to bring the effect and status configuration back into the items.lua of ox_inventory with the advantage of saving time in object configuration and having everything under control in a single file
 
 ### Permissions:
