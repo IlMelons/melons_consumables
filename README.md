@@ -4,12 +4,9 @@ The project aims to bring the effect and status configuration back into the item
 ### Permissions:
 The only permission allowed is to use it for your own server and apply the changes without commissioning third parties, all permissions for use other than this must be expressly requested to the author
 
-### Dependencies & Start Order
-- ensure `ox_lib`
-- ensure `Framework`
-- ensure `Framework Addons`
-- ensure `ox_inventory`
-- ensure `melons_consumables`
+### Dependencies
+- ox_lib
+- ox_inventory
 
 ### Links:
 - [Discord](https://discord.gg/RxpNTx2YKZ)
