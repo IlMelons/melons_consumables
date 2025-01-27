@@ -6,6 +6,7 @@ name "melons_consumables"
 author "IlMelons"
 description "Consumables Management Script"
 version "1.0.0"
+repository "https://github.com/IlMelons/melons_consumables"
 
 shared_scripts {
     "@ox_lib/init.lua",
@@ -18,4 +19,5 @@ client_scripts {
 server_scripts {
     "bridge/server/*.lua",
     "server/*.lua",
+    "checker.lua",
 }
