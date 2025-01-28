@@ -7,8 +7,8 @@ local function isValidStatus(status)
 end
 
 exports("consumable", function(event, item, inventory)
-    local effect = item.effect
-    local status = item.status
+    local effect = item.server.effect
+    local status = item.server.status
     if event == "usingItem" then
         if status and not isValidStatus(status) then
             lib.print.error("Status not valid for item "..item.name)
