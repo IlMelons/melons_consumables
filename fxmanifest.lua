@@ -5,7 +5,7 @@ lua54 "yes"
 name "melons_consumables"
 author "IlMelons"
 description "Consumables Management Script"
-version "1.0.0"
+version "1.1.0"
 repository "https://github.com/IlMelons/melons_consumables"
 
 shared_scripts {
